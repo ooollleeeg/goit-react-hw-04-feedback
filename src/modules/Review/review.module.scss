@@ -1,0 +1,10 @@
+.title {
+  font-style: 24px;
+  margin-left: 100px;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 300px 300px;
+  gap: 30px;
+}
