@@ -1,10 +1,12 @@
 .title {
-  font-style: 24px;
-  margin-left: 100px;
+  font-size: 36px;
+
+  text-align: center;
 }
 
 .wrapper {
   display: grid;
   grid-template-columns: 300px 300px;
   gap: 30px;
+  justify-content: center;
 }
